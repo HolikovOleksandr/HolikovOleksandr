@@ -13,5 +13,5 @@
 [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
 
-> Software is like sex — it's better when it's free. <br/>>
- ***—Linus Torvald***
+"Software is like sex — it's better when it's free." <br/>>
+        —Linus Torvald
