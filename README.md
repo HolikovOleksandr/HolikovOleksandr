@@ -1,14 +1,12 @@
 
-💡 Hello! I'm a junior backend developer use JavaScript and TypeScript. Although I've been coding for over a year, my experience in these languages is relatively recent, as I was previously actively involved in developing mobile applications using Flutter and working on backend with C# (ASP.NET).
-
-📚 This shift from mobile development and C# to JavaScript and TypeScript is an exciting new path for me. I'm always open to learning new technologies and constantly expanding my tech stack.
-
-🤖 Additionally, the satisfaction I derive from creating Telegram bots in JavaScript is akin to the joy I experienced in developing mobile apps and backend systems.
-
-🌱 I'm excited to embark on this new journey in the world of JavaScript and TypeScript and am always open to new challenges and collaboration on interesting projects!
+# 💡 Hello! My name is **Oleksandr Holikov**  #
+## 🌱 I'm a *Junior backend developer* from Kiyv ##
+###🤖 In my free time, I have a hobby of creating Telegram bots ###
 
 
-[![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)](https://nodejs.org/)
+
+
+![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 [![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
 [![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)](https://expressjs.com/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
