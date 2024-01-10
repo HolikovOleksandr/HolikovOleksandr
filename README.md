@@ -7,12 +7,18 @@
 💡I'm excited to embark on this new journey in the world of JavaScript and TypeScript and am always open to new challenges and collaboration on interesting projects!
 
 
-[![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
-[![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)](https://expressjs.com/)
 [![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)](https://nodejs.org/)
+
+[![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
+
+[![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)](https://expressjs.com/)
+
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
+
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com/)
+
 [![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
+
 [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
+
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
