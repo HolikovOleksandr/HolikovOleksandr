@@ -1,5 +1,5 @@
 
-# 💡Hello! My name is **Oleksandr Holikov**  #
+#💡Hello! My name is **Oleksandr Holikov**  #
 ## 🌱 I'm a *Junior backend developer* from Kiyv ##
 ### 🤖 In my free time, I have a hobby of creating Telegram bots ###
 
