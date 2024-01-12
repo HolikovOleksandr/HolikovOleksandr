@@ -6,8 +6,8 @@
 ### 👨‍💻 Technologies and languages:
 [![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)](https://nodejs.org/en)
 [![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
-[![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)](https://nestjs.com/)
 [![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)](https://expressjs.com/)
+[![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)](https://nestjs.com/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
 [![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com/)
