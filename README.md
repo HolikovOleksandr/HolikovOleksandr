@@ -5,6 +5,7 @@
 ### 👨‍💻 Technologies and languages:
 [![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)](https://nodejs.org/en)
 [![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
+[![Nest.js](https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg)](https://nestjs.com/)
 [![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)](https://expressjs.com/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
 [![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
