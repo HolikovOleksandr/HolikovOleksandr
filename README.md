@@ -1,5 +1,5 @@
 # 💡Hello! My name is Oleksandr Holikov
-## 🌱 I'm a Junior backend developer from Kyiv 
+## 🌱 I'm a backend developer from Kyiv 
 ### 🤖 In my free time, I have a hobby of creating Telegram bots 
 
 ### 👨‍💻 Technologies and languages:
