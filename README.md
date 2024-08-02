@@ -8,7 +8,7 @@
 [![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)](https://nestjs.com/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
 [![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
-[![Swagger](https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg)](https://swagger.io/)
+[![Swagger](https://img.icons8.com/ios-filled/50/000000/swagger.png)](https://swagger.io/)
 [![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com/)
 [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
