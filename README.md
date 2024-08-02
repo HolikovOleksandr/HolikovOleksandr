@@ -7,7 +7,7 @@
 [![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
 [![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)](https://nestjs.com/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
-[![PostgreSQ[L](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
+[![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
 [![Swagger](https://upload.wikimedia.org/wikipedia/commons/6/6a/Swagger_logo.svg](https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png))](https://swagger.io/)
 [![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com/)
