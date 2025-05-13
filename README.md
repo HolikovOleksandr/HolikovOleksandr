@@ -3,9 +3,8 @@
 ### 🤖 In my free time, I have a hobby of creating Telegram bots 
 
 ### 👨‍💻 Technologies and languages:
-[![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)](https://nodejs.org/en)
-[![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
-[![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)](https://nestjs.com/)
+[![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org/)
+[![FastAPI](https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
 [![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
 [![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
