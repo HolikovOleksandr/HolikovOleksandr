@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Technologies and languages:
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org/)
-[![FastAPI](https://raw.githubusercontent.com/jacobdreisewerd/fastapi-icon/main/icon-light.svg)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
 [![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
 [![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
