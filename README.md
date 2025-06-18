@@ -1,6 +1,6 @@
 # 💡Hello! My name is Oleksandr Holikov
-## 🌱 I'm a backend developer from Kyiv 
-### 🤖 In my free time, I have a hobby of creating mobile apps and telegram bots
+## 🌱 I'm a mobile developer from Kyiv 
+### 🤖 In my free time, I have a hobby work with backend? web-scraping and telegram bots
 
 ### 👨‍💻 Technologies and languages:
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org/)
