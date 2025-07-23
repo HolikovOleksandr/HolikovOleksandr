@@ -1,6 +1,6 @@
 # 💡 Hello! My name is Oleksandr Holikov
-## 🌱 I'm a mobile developer from Kyiv  
-### 🤖 In my free time, I enjoy working with backend, web scraping, and Telegram bots
+## 🌱 I'm a backend developer from Kyiv  
+### 🤖 In my free time, I enjoy working with flutter and telegram bots
 ---
 
 ### 👨‍💻 Technologies and Tools I Use
