@@ -14,5 +14,8 @@
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
 ---
 
-> “Software is like sex — it's better when it's free.”  
+> “Software is like sex — it's better when it's free”  
+> — *Linus Torvalds*
+> 
+> “TypeScript isn't making your life worse. It's just showing you how bad your life already is”  
 > — *Linus Torvalds*
