@@ -18,4 +18,5 @@
 > — *Linus Torvalds*
 > 
 > “TypeScript isn't making your life worse. It's just showing you how bad your life already is”  
-> — *Linus Torvalds*
+> — *Kent Dodds*
+
